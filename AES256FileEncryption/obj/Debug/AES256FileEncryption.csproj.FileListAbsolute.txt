@@ -1,0 +1,38 @@
+c:\users\p\documents\visual studio 2015\Projects\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.exe.config
+c:\users\p\documents\visual studio 2015\Projects\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.exe
+c:\users\p\documents\visual studio 2015\Projects\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.pdb
+c:\users\p\documents\visual studio 2015\Projects\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csprojResolveAssemblyReference.cache
+c:\users\p\documents\visual studio 2015\Projects\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.Form1.resources
+c:\users\p\documents\visual studio 2015\Projects\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.Properties.Resources.resources
+c:\users\p\documents\visual studio 2015\Projects\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csproj.GenerateResource.Cache
+c:\users\p\documents\visual studio 2015\Projects\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.exe
+c:\users\p\documents\visual studio 2015\Projects\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.pdb
+E:\IT\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.exe.config
+E:\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.exe
+E:\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.pdb
+E:\IT\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.exe
+E:\IT\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.pdb
+E:\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csprojResolveAssemblyReference.cache
+E:\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.Properties.Resources.resources
+E:\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csproj.GenerateResource.Cache
+E:\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.Form1.resources
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.exe.config
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.exe
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.pdb
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csprojResolveAssemblyReference.cache
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.Form1.resources
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.Properties.Resources.resources
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csproj.GenerateResource.Cache
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csproj.CoreCompileInputs.cache
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.exe
+C:\Users\aidie\Desktop\IT\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.pdb
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.exe.config
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.exe
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\bin\Debug\AES256FileEncryption.pdb
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csprojResolveAssemblyReference.cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.Form1.resources
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.Properties.Resources.resources
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csproj.GenerateResource.Cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.csproj.CoreCompileInputs.cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.exe
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\AES256FileEncryption\obj\Debug\AES256FileEncryption.pdb

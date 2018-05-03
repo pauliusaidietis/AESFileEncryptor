@@ -1,0 +1,6 @@
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\FileCompressor\bin\Debug\FileCompressor.dll
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\FileCompressor\bin\Debug\FileCompressor.pdb
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\FileCompressor\obj\Debug\FileCompressor.csprojResolveAssemblyReference.cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\FileCompressor\obj\Debug\FileCompressor.csproj.CoreCompileInputs.cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\FileCompressor\obj\Debug\FileCompressor.dll
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\FileCompressor\obj\Debug\FileCompressor.pdb

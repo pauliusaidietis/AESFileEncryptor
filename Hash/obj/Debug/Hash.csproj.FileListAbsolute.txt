@@ -1,0 +1,6 @@
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\Hash\bin\Debug\Hash.dll
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\Hash\bin\Debug\Hash.pdb
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\Hash\obj\Debug\Hash.csprojResolveAssemblyReference.cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\Hash\obj\Debug\Hash.dll
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\Hash\obj\Debug\Hash.pdb

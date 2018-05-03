@@ -1,0 +1,16 @@
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\obj\Debug\UI.MainWinow.resources
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\bin\Debug\UI.exe.config
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\bin\Debug\UI.exe
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\bin\Debug\UI.pdb
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\bin\Debug\Encryption.dll
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\bin\Debug\FileCompressor.dll
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\bin\Debug\Hash.dll
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\bin\Debug\Encryption.pdb
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\bin\Debug\FileCompressor.pdb
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\bin\Debug\Hash.pdb
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\obj\Debug\UI.exe
+C:\Users\aidie\Desktop\Projektai\AES256FileEncryption\UI\obj\Debug\UI.pdb
